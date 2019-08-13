@@ -7,6 +7,6 @@ DownloadGmailAttachment was created because I could not find an up to date refer
 pandas\
 io\
 google-api-python-client\
-oauth2client\
+oauth2client
 
 
