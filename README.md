@@ -15,7 +15,7 @@ os.path\
 pandas\
 pickle\
 
-# Usage 
+# Usage
     # modify these scopes, delete the file token.pickle
     credPath = "path to credentials.json file"
     search_query = "your search term"
